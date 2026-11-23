@@ -1,0 +1,29 @@
+File,Column(s),Description,Type
+Customers.csv,Customer_ID,Unique customer identifier,Primary key
+Customers.csv,Industry,Industry classification,Categorical
+Customers.csv,Company_Size,Organization size,Categorical
+Customers.csv,Country / State / City,Customer geography,Categorical
+Customers.csv,Customer_Segment,Commercial segment,Categorical
+Customers.csv,Acquisition_Channel,Acquisition source,Categorical
+Customers.csv,Signup_Date,Signup date,Date
+Products.csv,Product_ID,Unique product identifier,Primary key
+Products.csv,Product_Category,Technology category,Categorical
+Products.csv,Pricing_Model,Pricing method,Categorical
+Products.csv,Unit_Price,Reference price,Numeric
+Subscriptions.csv,Subscription_ID,Unique subscription identifier,Primary key
+Subscriptions.csv,Customer_ID / Product_ID,Relationship keys,Foreign keys
+Subscriptions.csv,Subscription_Start_Date / End_Date,Subscription lifecycle,Date
+Subscriptions.csv,Monthly_Fee,Recurring fee,Numeric
+Subscriptions.csv,Discount,Discount percentage,Numeric
+Subscriptions.csv,Status,Lifecycle status,Categorical
+Transactions.csv,Transaction_ID,Unique transaction identifier,Primary key
+Transactions.csv,Customer_ID / Subscription_ID,Relationship keys,Foreign keys
+Transactions.csv,Transaction_Date,Transaction date,Date
+Transactions.csv,Transaction_Type,Revenue event type,Categorical
+Transactions.csv,Amount,Transaction amount; refunds may be negative,Numeric
+Transactions.csv,Discount,Transaction discount percentage,Numeric
+Support_Tickets.csv,Ticket_ID,Unique support ticket identifier,Primary key
+Support_Tickets.csv,Customer_ID / Subscription_ID,Relationship keys,Foreign keys
+Support_Tickets.csv,Issue_Category / Priority,Support classification,Categorical
+Support_Tickets.csv,Resolution_Time_Hours,Resolution time,Numeric
+Support_Tickets.csv,Satisfaction_Score,Customer satisfaction 1-5,Numeric

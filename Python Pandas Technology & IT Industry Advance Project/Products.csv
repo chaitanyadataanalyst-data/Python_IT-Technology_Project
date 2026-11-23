@@ -1,0 +1,121 @@
+Product_ID,Product_Name,Product_Category,Product_Type,Pricing_Model,Unit_Price,Launch_Date,Target_Segment
+P0001,Collaboration Platform 1, crm,API,Per-User,1689.71,24-12-2022,Startup
+P0002,CRM Suite 2,Productivity,API,Tiered,1376.44,30-09-2024,Startup
+P0003,Productivity Pro 3,Analytics,Service,Usage-Based,112.1,19-03-2023,Startup
+P0004,DevOps Cloud 4,Cybersecurity,Platform,Per-User,1291.46,01-11-2024,Startup
+P0005,DevOps Cloud 5,Analytics,Platform,Usage-Based,2416.57,04-07-2025,Mid-Market
+P0006,Cybersecurity 360 6,Cybersecurity,API,Usage-Based,1025.56,16-12-2020,Mid-Market
+P0007,Productivity Platform 7,CRM,Software,Per-User,303.7,10-09-2020,Startup
+P0008,Cybersecurity Cloud 8,DevOps,Platform,Subscription,67.83,09-01-2020,Startup
+P0009,Productivity 360 9,AI & ML,API,Subscription,1039.48,20-02-2021,Mid-Market
+P0010,AI & ML 360 10,Analytics,Hardware,Subscription,475.46,30-01-2022,Enterprise
+P0011,Analytics Cloud 11,Cybersecurity,Service,One-Time,2089.23,14-07-2021,Startup
+P0012,DevOps Suite 12,AI & ML,Service,Tiered,2381.36,10-12-2024,Startup
+P0013,Analytics Platform 13,DevOps,Platform,Per-User,2352.22,04-07-2024,Startup
+P0014,Cybersecurity Hub 14,Analytics,Software,One-Time,945.71,10-02-2022,Mid-Market
+P0015,DevOps 360 15,Collaboration,Platform,Tiered,1145.07,19-06-2023,Enterprise
+P0016,CRM Platform 16,DevOps,Service,One-Time,797.97,16-11-2021,Enterprise
+P0017,AI & ML Suite 17,DevOps,Software,Usage-Based,,09-01-2023,Startup
+P0018,DevOps Platform 18,Analytics,Hardware,One-Time,1404.21,29-09-2021,Startup
+P0019,AI & ML Cloud 19,Productivity,Platform,Usage-Based,477.72,02-10-2024,Enterprise
+P0020,Cybersecurity Pro 20,Analytics,Service,Tiered,162.63,14-05-2021,Startup
+P0021,CRM Suite 21,DevOps,Hardware,Tiered,2125.84,15-11-2025,Mid-Market
+P0022,Analytics Hub 22,AI & ML,Service,Subscription,1999.31,06-08-2025,Enterprise
+P0023,DevOps Hub 23, ai & ml,Software,Tiered,2316.81,05-03-2021,Startup
+P0024,CRM Hub 24,Analytics,Platform,Usage-Based,828.6,05-06-2023,Startup
+P0025,Cloud Platform 25,AI & ML,API,Per-User,2178.74,15-11-2024,SMB
+P0026,CRM Suite 26,DevOps,Hardware,One-Time,1005.15,24-01-2025,SMB
+P0027,DevOps Pro 27,Cloud,Service,Subscription,195.86,22-03-2022,SMB
+P0028,Analytics Suite 28, ai & ml,Service,Subscription,1152.74,15-04-2023,SMB
+P0029,DevOps 360 29,Cybersecurity,Hardware,Per-User,1391.16,16-11-2020,SMB
+P0030,AI & ML Pro 30,Cybersecurity,Software,Per-User,1088.75,05-07-2021,Startup
+P0031,Cloud Platform 31,Cloud,Software,Per-User,1966.81,16-07-2021,Enterprise
+P0032,CRM Hub 32,CRM,API,Tiered,,18-09-2021,SMB
+P0033,Collaboration Suite 33,Cloud,API,Usage-Based,2303.84,25-05-2022,Enterprise
+P0034,Cybersecurity Hub 34,CRM,Platform,One-Time,199.3,17-02-2024,Startup
+P0035,Analytics Suite 35,DevOps,Service,Subscription,1805.21,25-05-2025,Startup
+P0036,DevOps Suite 36,CRM,Software,Per-User,2323.51,29-06-2023,Startup
+P0037,CRM Cloud 37,Analytics,Software,Per-User,1389.61,15-11-2022,Startup
+P0038,AI & ML 360 38,Analytics,Hardware,Per-User,2198.52,21-03-2024,Startup
+P0039,DevOps Suite 39,DevOps,Software,Subscription,1734.2,09-09-2023,Startup
+P0040,CRM Hub 40,Analytics,API,Subscription,51.11,06-09-2022,Startup
+P0041,Productivity Hub 41, devops,Hardware,Tiered,1683.04,13-03-2020,Enterprise
+P0042,Cloud Suite 42,DevOps,Service,Tiered,1646.56,03-04-2023,SMB
+P0043,CRM Pro 43, crm,API,Subscription,15.07,20-05-2020,Startup
+P0044,Cybersecurity Cloud 44,Analytics,Platform,Usage-Based,1031.76,01-09-2023,SMB
+P0045,Collaboration Suite 45, cloud,Software,Tiered,111.42,19-08-2025,Mid-Market
+P0046,Cloud Hub 46,DevOps,Software,Subscription,743.1,15-10-2024,Enterprise
+P0047,Cloud 360 47,Analytics,API,Per-User,2466.66,12-01-2025,Enterprise
+P0048,AI & ML Pro 48,Productivity,API,Usage-Based,2351.61,09-10-2022,Startup
+P0049,Cloud Cloud 49,Cloud,Platform,Tiered,1716.88,09-12-2022,SMB
+P0050,Productivity Platform 50,DevOps,Platform,One-Time,926.63,26-02-2023,Startup
+P0051,Collaboration Hub 51,Collaboration,Software,One-Time,1000.18,15-03-2021,SMB
+P0052,AI & ML Suite 52,Collaboration,Software,Subscription,109.96,20-11-2025,Enterprise
+P0053,Cybersecurity 360 53,Analytics,Platform,Subscription,855.64,29-03-2020,SMB
+P0054,Analytics Pro 54, cloud,Hardware,One-Time,1964.2,11-12-2025,Enterprise
+P0055,CRM Cloud 55,Cloud,Platform,Usage-Based,1305.59,08-11-2025,SMB
+P0056,Productivity Pro 56,Productivity,Software,Per-User,1199.54,23-08-2025,SMB
+P0057,Cloud Platform 57,Cloud,API,Subscription,241.38,13-01-2020,Startup
+P0058,Cybersecurity Suite 58,Cybersecurity,Software,Subscription,2298.72,23-09-2025,Enterprise
+P0059,AI & ML Hub 59,CRM,API,One-Time,718.44,05-06-2021,Mid-Market
+P0060,Analytics 360 60,Cloud,Service,Subscription,966.51,25-07-2021,Mid-Market
+P0061,AI & ML Platform 61,CRM,Software,Subscription,836.81,08-02-2024,Startup
+P0062,Cybersecurity Suite 62,AI & ML,Hardware,Tiered,831.9,22-05-2022,Startup
+P0063,CRM 360 63,Collaboration,Service,One-Time,1504.32,18-08-2025,Mid-Market
+P0064,CRM Platform 64,Collaboration,Hardware,Usage-Based,1573.18,24-12-2022,SMB
+P0065,Analytics Hub 65,Analytics,Service,Tiered,1502.43,13-09-2020,Enterprise
+P0066,CRM Cloud 66,DevOps,Hardware,Tiered,185.22,09-06-2021,SMB
+P0067,Cloud Hub 67,Cloud,API,Per-User,2424.3,24-08-2024,Mid-Market
+P0068,AI & ML Cloud 68,Cybersecurity,Software,Per-User,,16-06-2023,Enterprise
+P0069,DevOps Platform 69,AI & ML,Software,One-Time,2208.58,28-12-2021,Startup
+P0070,Analytics Suite 70, cybersecurity,Software,Subscription,411.78,26-04-2021,SMB
+P0071,CRM Hub 71,Analytics,Software,Tiered,2331.29,30-01-2024,SMB
+P0072,Collaboration Suite 72,Productivity,Hardware,Subscription,1808.38,07-08-2021,Mid-Market
+P0073,Productivity Pro 73,Analytics,Hardware,One-Time,1259.28,30-07-2020,Enterprise
+P0074,Analytics Cloud 74,DevOps,Service,Per-User,72.48,04-05-2023,Enterprise
+P0075,AI & ML 360 75,Collaboration,Software,Subscription,644.17,11-03-2025,Startup
+P0076,Cloud 360 76,CRM,Hardware,Per-User,2099.27,07-11-2021,SMB
+P0077,DevOps Suite 77,CRM,Platform,Usage-Based,957.27,30-03-2024,Startup
+P0078,Cybersecurity Platform 78,DevOps,Hardware,Tiered,1700.52,06-09-2022,Startup
+P0079,DevOps Suite 79,Productivity,Service,Per-User,1831.02,26-09-2025,Startup
+P0080,Productivity 360 80,Productivity,API,Usage-Based,1942.49,24-08-2023,Startup
+P0081,Cloud Cloud 81,Collaboration,Service,Usage-Based,965.15,06-01-2023,Mid-Market
+P0082,AI & ML Pro 82,Productivity,Service,Subscription,2275.94,14-05-2021,Mid-Market
+P0083,CRM Cloud 83,Analytics,Hardware,Per-User,741.12,30-04-2025,Mid-Market
+P0084,Analytics Cloud 84,Cloud,Service,Per-User,2092.62,10-04-2020,Mid-Market
+P0085,DevOps Suite 85,Cloud,Platform,Tiered,1070.46,31-03-2023,SMB
+P0086,Productivity Cloud 86,AI & ML,Software,One-Time,597.06,06-08-2021,Mid-Market
+P0087,Cloud Suite 87,Cybersecurity,Hardware,Per-User,868.47,29-01-2023,Mid-Market
+P0088,DevOps Hub 88,DevOps,Service,Usage-Based,2001.92,26-11-2025,Startup
+P0089,Collaboration 360 89,Cloud,Software,Usage-Based,1542.95,26-07-2020,SMB
+P0090,Cybersecurity 360 90, ai & ml,Service,One-Time,354.65,25-04-2020,Startup
+P0091,AI & ML Hub 91,Productivity,Hardware,Subscription,323.06,20-11-2024,Startup
+P0092,CRM Suite 92,AI & ML,Service,Subscription,1722.69,11-03-2024,SMB
+P0093,Cloud Suite 93,AI & ML,Platform,Tiered,610.14,22-06-2022,Startup
+P0094,DevOps Cloud 94,CRM,Software,Subscription,533.52,02-05-2021,Enterprise
+P0095,Productivity Hub 95, collaboration,Hardware,Usage-Based,1877.51,08-08-2023,Enterprise
+P0096,AI & ML Platform 96,Collaboration,Platform,Per-User,816.79,17-07-2021,Startup
+P0097,DevOps Cloud 97,DevOps,Hardware,Subscription,184.74,27-11-2023,Startup
+P0098,Cloud Hub 98,Productivity,API,One-Time,1070.71,07-06-2022,Mid-Market
+P0099,Cybersecurity Platform 99,Collaboration,Service,Per-User,1429.41,26-08-2024,Enterprise
+P0100,Analytics Suite 100,Collaboration,Platform,Subscription,1509.7,14-12-2023,Enterprise
+P0101,Productivity Hub 101,Productivity,Service,Per-User,160.39,15-06-2023,SMB
+P0102,Collaboration Suite 102,Analytics,API,Tiered,1142.09,01-08-2020,SMB
+P0103,AI & ML Suite 103, analytics,Platform,Usage-Based,908.51,21-09-2023,Enterprise
+P0104,AI & ML Cloud 104,Collaboration,Service,One-Time,1130.6,11-03-2024,SMB
+P0105,CRM Platform 105,Cybersecurity,API,Per-User,,16-02-2023,Mid-Market
+P0106,Cloud Platform 106,Cloud,Service,Per-User,749.58,24-07-2023,SMB
+P0107,DevOps Suite 107,CRM,Software,Per-User,1613.99,08-09-2023,Mid-Market
+P0108,Cloud Platform 108,Collaboration,Software,Per-User,327.9,27-05-2021,Enterprise
+P0109,Cloud Cloud 109,Analytics,Service,Subscription,,01-09-2022,Startup
+P0110,Analytics Platform 110,CRM,Hardware,Per-User,2484.87,03-10-2020,Mid-Market
+P0111,Collaboration 360 111,Cloud,Software,Per-User,910.7,29-08-2024,Mid-Market
+P0112,DevOps Cloud 112,AI & ML,Software,One-Time,1707.17,15-11-2020,Startup
+P0113,Cloud 360 113,Collaboration,Platform,One-Time,1593.83,12-11-2024,Mid-Market
+P0114,Collaboration Pro 114,DevOps,Software,Per-User,430.4,27-10-2023,SMB
+P0115,AI & ML Pro 115,Cloud,Platform,Usage-Based,979.66,08-02-2023,SMB
+P0116,CRM Suite 116,Cloud,Service,One-Time,2451.91,12-01-2023,Startup
+P0117,Cybersecurity Suite 117, devops,Service,Tiered,332.27,17-11-2020,Enterprise
+P0118,Analytics Hub 118,Cybersecurity,Service,Tiered,1444.31,30-11-2023,SMB
+P0119,Analytics Hub 119,Cloud,API,Usage-Based,1503.96,30-03-2022,SMB
+P0120,DevOps Hub 120,Collaboration,Software,Usage-Based,431.3,14-09-2024,Startup
