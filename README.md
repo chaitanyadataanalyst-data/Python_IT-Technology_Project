@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)
 ![Pandas](https://img.shields.io/badge/Pandas-Only%20Library-green?logo=pandas)
 ![GitHub stars](https://img.shields.io/github/stars/chaitanya/pandas-project?style=social)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 
 ---
 
